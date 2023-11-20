@@ -1,0 +1,2 @@
+starting of feature 1
+feature completed and commit
